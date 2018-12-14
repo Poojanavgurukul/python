@@ -4,4 +4,4 @@ def ask_question():
 	print "Bill Gates"
 	print "Steve Jobs"
 	print "Larry page"
-print ask_question()
+ask_question()

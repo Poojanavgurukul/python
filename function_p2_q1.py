@@ -7,4 +7,4 @@ while counter<5:
 	print "Steve Jobs"
 	print "Larry Page"
     counter=counter+1
-    print ask_question()
+    ask_question()
